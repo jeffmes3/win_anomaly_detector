@@ -126,25 +126,9 @@ For educational and ethical security research only. Do not use this tool for una
 
 ---
 
-## ✅ How to Use It
-
-- Save the file as `README.md` in your GitHub repo root.
-- Replace placeholders:
-  - `YourPassword123`
-  - `your-username`
-  - `your.email@example.com`
-- (Optional) Add `LICENSE` if you plan to open source
-
 ---
 
-## ✅ Want Me to Generate the GitHub Repo Files?
 
-I can provide a zip/`tree` layout or even a `gh repo create` command example for you — just let me know.
-
-Also available:
-- Prebuilt `requirements.txt`
-- PyInstaller `.exe` builder config
-- Dashboard UI starter (Flask/Streamlit)
 
 
 
